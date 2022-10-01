@@ -201,4 +201,5 @@ http://localhost:9200/currency_exchange_rate/USDTOINR/<id>
 open it with browser you can find data if it successfully inserted.
 
 
+## More details can be found at https://kafka.apache.org/quickstart .
 
